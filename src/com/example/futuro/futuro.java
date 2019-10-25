@@ -2,6 +2,8 @@ package com.example.futuro;
 
 import java.io.PrintStream;
 
+// Gabriel Blanca Montes
+
 public class futuro
 {
     public static String veredicto(String valor1, String valor2)
