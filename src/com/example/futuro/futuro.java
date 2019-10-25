@@ -6,7 +6,7 @@ import java.io.PrintStream;
 
 public class futuro
 {
-    public static String veredicto(String valor1, String valor2)
+    private static String veredicto(String valor1, String valor2)
     {
         String msg;
 
